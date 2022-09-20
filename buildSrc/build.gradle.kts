@@ -15,4 +15,6 @@ dependencies {
     implementation("org.springframework.boot:spring-boot-gradle-plugin:2.7.2")
     implementation("org.jetbrains.dokka:dokka-gradle-plugin:1.7.10")
     implementation("io.gitlab.arturbosch.detekt:detekt-gradle-plugin:1.21.0")
+    implementation("org.apache.logging.log4j:log4j-core:2.8.2")
+    implementation("io.jsonwebtoken:jjwt:0.6.0")
 }
